@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/*.rb
+!/*.sh
+!/config
+!/config/logserver.cfg
+
